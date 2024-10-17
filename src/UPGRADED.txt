@@ -1,0 +1,4 @@
+Upgrades to the original design:
+
+1) A readonly textarea was added to show everything entered, the entire calculation, that is reset when the reset button is clicked.
+2) .
