@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-isaac/Simple-Calculator/static/css/main.1f923e20.css",
+    "main.js": "/react-portfolio-isaac/Simple-Calculator/static/js/main.7cfe3956.js",
+    "index.html": "/react-portfolio-isaac/Simple-Calculator/index.html",
+    "main.1f923e20.css.map": "/react-portfolio-isaac/Simple-Calculator/static/css/main.1f923e20.css.map",
+    "main.7cfe3956.js.map": "/react-portfolio-isaac/Simple-Calculator/static/js/main.7cfe3956.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f923e20.css",
+    "static/js/main.7cfe3956.js"
+  ]
+}
